@@ -3,10 +3,19 @@ h1 {
   text-align: center;
 }
 h2 {
-  color:red;
-  text-align: center;
+  color:blue;
+  text-align: left;
 }
 h3 {
-  color:red;
+  color:green;
+  text-align: left;
+  font-family: fantasy;
+}
+.sidebar {
+  width: 200px;
+  float: right;
+  background-color: yellow;
+}
+.image {
   text-align: center;
 }
