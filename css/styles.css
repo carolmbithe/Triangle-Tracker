@@ -9,7 +9,6 @@ h2 {
 h3 {
   color:green;
   text-align: left;
-  font-family: fantasy;
 }
 .sidebar {
   width: 200px;
@@ -27,5 +26,9 @@ h3 {
   background-color: pink;
 }
 .sides{
-  background-color: green;
+  background-color: green;g
+}
+body{
+  font-family: serif;
+  background-color: purple;
 }
