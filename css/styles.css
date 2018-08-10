@@ -16,8 +16,9 @@ h3 {
 .sidebar {
   width: 200px;
   float: right;
-  background-color: gray;
+  background-color: #ADD8E6;
 }
+
 .image {
   text-align: center;
 }
