@@ -11,3 +11,6 @@ alert("It is an isosceles triangle");
 } else if (sideOne !==sideTwo || sideTwo !==sideThree ||sideThree !==sideOne) {
 alert("Its a scalene triangle");
  }
+else {
+  alert("Enter the three sides of the triangle")
+}

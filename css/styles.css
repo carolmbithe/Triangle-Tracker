@@ -10,6 +10,9 @@ h3 {
   color:green;
   text-align: left;
 }
+.triangle{
+ color:white;
+}
 .sidebar {
   width: 200px;
   float: right;
