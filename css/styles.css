@@ -14,8 +14,15 @@ h3 {
 .sidebar {
   width: 200px;
   float: right;
-  background-color: yellow;
+  background-color: gray;
 }
 .image {
   text-align: center;
+}
+.test-box {
+  text-align: center;
+  border:10px solid maroon;
+  padding: 7px;
+  margin: 20px;
+  background-color: pink;
 }
