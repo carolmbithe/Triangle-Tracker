@@ -1,16 +1,21 @@
 TRIANGLE TRACKER
-A Caroline Mumo
-Author
+By Caroline Mumo
+
 This application is aimed to fulfill the purpose of determining if a trianle is scalene,equilateral or scalene depending on the measurements you input.It can be used when doing Mathematics calculation
+
 Installation Requirements
 You can install this app by cloning the repository from this link https://github.com/carolmbithe/Triangle-Trac
+
 Known Bugs
 There are no known bugs so far,everything is working.
+
 Technologies Used
 Technologies used are CSS and HTML and JavaScipt.
+
 Support and contact details
  If any issues,questions,ideas and concerns are encountered,feel free to contact mumocaroline19@gmail.com
 
+License
 Open Source License
 Copyright (c) 2018 Caroline Mumo
 Permission is hereby granted, free of charge, to any person obtaining a copy
