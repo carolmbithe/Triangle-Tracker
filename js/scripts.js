@@ -1,7 +1,6 @@
-
 var sideOne=parseInt(prompt("Enter side One"));
 var sideTwo=parseInt(prompt("Enter side Two"));
-var sideThree=parseInt(prompt("Enter side Three"))
+var sideThree=parseInt(prompt("Enter side Three"));
 if (sideOne+sideTwo<=sideThree || sideTwo+sideThree<=sideOne ||sideOne+sideThree<=sideTwo){
 alert("It's not a triangle");
 }
